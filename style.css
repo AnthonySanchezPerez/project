@@ -1,0 +1,19 @@
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSlI08rPyQwqu7oiHq39Lbu0wNRR12Dt3vAA:veh-markets.com/uploads/postfotos/wild-2010-super-widebody-custom-mustang-gt-1.jpg&usqp=CAU);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+
+  h1{
+    color: gray;
+  
+  }
+
+a{
+  font-family: 'Mochiy Pop P One', sans-serif;
+  color: white;
+}
+
+

@@ -1,0 +1,21 @@
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCPxr57mh_ghN9-D16YFhXtxOoh-zrFGCeCyNy17BcJ37d35zd4b5EHwwbq7HLaYWsns:https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/magnetic-mustang-3-1510587680.jpg&usqp=CAU);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+
+  h1{
+    color: rgb(20, 223, 238);
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 300%;
+    
+  }
+
+a{
+  font-family: 'Mochiy Pop P One', sans-serif;
+  color: white;
+}
+  
